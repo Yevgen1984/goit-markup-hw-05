@@ -667,11 +667,12 @@
       background-color: var(--accent-color);
     }
 
-    /*online-sction*/
+
+    /*online-sction - HW 6*/
 
     
 
-    .online.title {
+    /*.online.title {
       font-weight: 700;
       font-size: 14px;
       line-height: 1.2;
@@ -713,7 +714,7 @@
       }
 
       .sign-up-title {
-        margin: 0 auto; }
+        margin: 0 auto; }*/
         
       
       
@@ -757,16 +758,11 @@
       opacity: 1;
 
     }
-    /*background-color: rgb(138, 51, 51);}*/
-
+   
     .modal-icon-item {
-          
       width: 22px;
       height: 22px;
-     
     }
-
-
 
     .data-modal-close {
       position: absolute;
